@@ -1,0 +1,57 @@
+2025-12-08 16:33:33,137 - WARNING - Clé API non configurée - mode démonstration
+2025-12-08 16:33:33,153 - INFO - 15 inscrits chargés depuis inscrits.csv
+2025-12-08 16:33:34,793 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:36,573 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:38,197 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:39,750 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:41,472 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:43,223 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:45,057 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:46,909 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:48,724 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:50,732 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:52,624 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:54,313 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:56,001 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:58,111 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:59,805 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:33:59,833 - INFO - Rapport détaillé sauvegardé dans rapport_email_20251208_163359.json
+2025-12-08 16:34:23,007 - WARNING - Clé API non configurée - mode démonstration
+2025-12-08 16:34:23,009 - INFO - 3 inscrits chargés depuis inscrits.csv
+2025-12-08 16:34:24,281 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:34:26,148 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:34:27,977 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:34:27,996 - INFO - Rapport détaillé sauvegardé dans rapport_email_20251208_163427.json
+2025-12-08 16:36:48,034 - WARNING - Clé API non configurée - mode démonstration
+2025-12-08 16:36:48,034 - INFO - 3 inscrits chargés depuis inscrits.csv
+2025-12-08 16:36:51,042 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:36:52,751 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:36:54,496 - ERROR - Détails: {"message":"Key not found","code":"unauthorized"}
+
+2025-12-08 16:36:54,502 - INFO - Rapport détaillé sauvegardé dans rapport_email_20251208_163654.json
+2025-12-08 16:47:22,709 - INFO - 3 inscrits chargés depuis inscrits.csv
+2025-12-08 16:47:28,004 - INFO - Rapport détaillé sauvegardé dans rapport_email_20251208_164728.json
+2025-12-10 15:46:23,133 - INFO - 3 inscrits chargés depuis inscrits.csv
+2025-12-10 15:46:58,981 - INFO - Rapport détaillé sauvegardé dans rapport_email_20251210_154658.json
+2025-12-10 16:08:18,617 - INFO - 4 inscrits chargés depuis inscrits.csv
+2025-12-10 16:08:32,741 - INFO - Rapport détaillé sauvegardé dans rapport_email_20251210_160832.json

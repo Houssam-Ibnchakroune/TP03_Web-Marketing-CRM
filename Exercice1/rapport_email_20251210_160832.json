@@ -1,0 +1,38 @@
+[
+  {
+    "success": true,
+    "email": "salma.kamal@etu.uae.ac.ma",
+    "status_code": 201,
+    "message_id": "<202512101508.56245869620@smtp-relay.mailin.fr>",
+    "details": {
+      "messageId": "<202512101508.56245869620@smtp-relay.mailin.fr>"
+    }
+  },
+  {
+    "success": true,
+    "email": "h.ibnchakroune@gmail.com",
+    "status_code": 201,
+    "message_id": "<202512101508.18154550357@smtp-relay.mailin.fr>",
+    "details": {
+      "messageId": "<202512101508.18154550357@smtp-relay.mailin.fr>"
+    }
+  },
+  {
+    "success": true,
+    "email": "salmakamal762@gmail.com",
+    "status_code": 201,
+    "message_id": "<202512101508.12088752773@smtp-relay.mailin.fr>",
+    "details": {
+      "messageId": "<202512101508.12088752773@smtp-relay.mailin.fr>"
+    }
+  },
+  {
+    "success": true,
+    "email": "houssam.ibnchakroune@etu.uae.ac.ma",
+    "status_code": 201,
+    "message_id": "<202512101508.21274658093@smtp-relay.mailin.fr>",
+    "details": {
+      "messageId": "<202512101508.21274658093@smtp-relay.mailin.fr>"
+    }
+  }
+]
